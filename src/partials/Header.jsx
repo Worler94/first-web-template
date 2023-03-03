@@ -36,7 +36,7 @@ function Header() {
         <div className="flex items-center justify-between h-20">
 
           {/* Site branding */}
-          <div className="shrink-0 mr-4" style={{ marginLeft: '450px' }}>
+          <div className="shrink-0 mr-4" style={{ right: '50%', position:'absolute'}}>
 
           {/* Logo */}
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" className="bi bi-camera"
