@@ -32,11 +32,11 @@ function Header() {
 
   return (
     <header className="absolute w-full z-30">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6" style={{ maxWidth: '100%' }}>
         <div className="flex items-center justify-between h-20">
 
           {/* Site branding */}
-          <div className="shrink-0 mr-4" style={{ width: '95%', position:'fixed', textAlign: 'center' }}>
+          <div className="shrink-0 mr-4" style={{ width: '95%', position:'absolute' }}>
 
           {/* Logo */}
             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" className="bi bi-camera"
