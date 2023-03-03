@@ -20,7 +20,7 @@ function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">Il desiderio di scoprire, la voglia di emozionare, il gusto di catturare, tre concetti che riassumono l’arte della fotografia.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
@@ -28,60 +28,60 @@ function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Products</h6>
+                <h6 className="text-gray-200 font-medium mb-1">Prodotti</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Web Studio</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Prodotto 1</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">DynamicBox Flex</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Prodotto 2</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Programming Forms</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Prodotto3</Link>
                   </li>
                 </ul>
               </div>
 
               {/* 3rd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
+                <h6 className="text-gray-200 font-medium mb-1">Risorse</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Risorsa1</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Risorsa2</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Risorsa3</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Risorsa4</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Risorsa5</Link>
                   </li>
                 </ul>
               </div>
 
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Company</h6>
+                <h6 className="text-gray-200 font-medium mb-1">Compagnia</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Termini di servizio</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Informativa sulla privacy</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Politica di rimborso</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Domande frequenti</Link>
                   </li>
                   <li className="mb-1">
-                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link to="#" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Contattaci</Link>
                   </li>
                 </ul>
               </div>
@@ -135,7 +135,7 @@ function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Cruip.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; LucaAndDavide.com. Tutti i diritti riservati.</div>
 
           </div>
 
