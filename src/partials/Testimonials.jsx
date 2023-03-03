@@ -12,8 +12,8 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Le nostre migliori recensioni</h2>
+            <p className="text-xl text-gray-400">Grazie alle nostre recensioni la nostra fama ci precede</p>
           </div>
 
           {/* Testimonials */}
@@ -29,7 +29,7 @@ function Testimonials() {
                     </svg>
                         </div>
                 </div>
-                <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                <blockquote className="text-lg text-gray-400 grow">— Se la vostra intenzione è quella di avere nel vostro giorno più bello un professionista che svolge il proprio lavoro con passione e dedizione, troverete in Ilaria la persona giusta. Non perdete questa bellissima opportunità.</blockquote>
                 <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                   <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
                 </div>
@@ -45,7 +45,7 @@ function Testimonials() {
                       </svg>
                         </div>
                   </div>
-                  <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                  <blockquote className="text-lg text-gray-400 grow">— Consiglierei Ilaria alle future spose perche è la migliore fotografa in assoluto. E' riuscita a rendere tutto semplice e perfetto ed a farci sentire sempre a nostro agio. Con amore, qualità e grande professionalità ha colto situazioni, pose rendendo tutto splendido. Se si vogliono raggiungere dei risultati eccellenti... cari futuri sposi scegliete assolutamente Ilaria.</blockquote>
                   <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                     <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
                   </div>
@@ -61,7 +61,7 @@ function Testimonials() {
                         </svg>
                         </div>
                     </div>
-                    <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+                    <blockquote className="text-lg text-gray-400 grow">— Abbiamo scelto Ilaria perché ci ha colpito fin da subito la sua professionalità e creatività. Ci ha accolto nel suo studio mostrandoci i suoi capolavori e facendoci volare con la fantasia. Non è un caso che abbia vinto molti premi internazionali. Consigliamo vivamente Ilaria poiché con le sue foto regala intense emozioni.</blockquote>
                     <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                       <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
                     </div>
