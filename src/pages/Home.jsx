@@ -9,6 +9,30 @@ import Testimonials from '../partials/Testimonials';
 import Newsletter from '../partials/Newsletter';
 import Banner from '../partials/Banner';
 import Footer from '../partials/Footer';
+import MyImage from "../partials/MyImage";
+
+function ImageSlider(props) {
+    const settings = {
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        arrows: false,
+    };
+
+    return (
+        <Slider {...settings}>
+            {props.images.map((image) => (
+                <div key={image.id}>
+                    <img src={image.src} alt={image.alt} />
+                </div>
+            ))}
+        </Slider>
+    );
+}
 
 function Home() {
   return (
@@ -24,7 +48,9 @@ function Home() {
         </div>
 
         {/*  Page sections */}
-        <HeroHome />
+          {/* <HeroHome />*/}
+
+        <MyImage />
         <FeaturesBlocks />
         <FeaturesZigZag />
         <Testimonials />
